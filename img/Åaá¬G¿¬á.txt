@@ -1,0 +1,72 @@
+Шрифты:
+<link href='http://fonts.googleapis.com/css?family=Fjalla+One' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Merienda:700' rel='stylesheet' type='text/css'>
+
+Заголовки:   
+      font-family: 'Fjalla One', sans-serif;
+      Размер шрифта: 24px;
+
+Логотип – это надпись со стилем шрифта: 
+        font-family: 'Merienda', cursive;
+        Размер шрифта: 28px;
+        Цвет шрифта:rgb(153, 153, 153);
+        Тень текста: сдвиг только по y: -1px, цвет: rgba(0, 0, 0, 0.25);
+
+
+"Шапка" сайта должна быть шириной 100% и зафиксирована вверху. Оформление заднего фона (дополнительно):
+    background-image: linear-gradient(to bottom, #222222, #111111);
+    Повторение заднего фона по оси х;
+    Цвет рамки: #252525;
+    Цвет шрифта:#999999;
+
+
+Ширина основного контента: 1170px;
+
+Кнопки:
+ Цвет:#ffffff;
+ Тень шрифта: сдвиг только по y: -1px, цвет: rgba(0, 0, 0, 0.25);
+ Цвет заднего фона: #49afcd;
+    background-image: linear-gradient(to bottom, #5bc0de, #2f96b4);
+    Повторение заднего фона по оси х;
+    Цвет рамки: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+    border-radius: 6px;
+    display: inline-block;
+    Рамка: сплошная линия в 1px, цвет #bbbbbb;
+
+Содержимое и подписи кнопок:
+
+Home                        
+About
+Screenshots
+Features
+Download
+
+
+Feature your app
+Tincidunt integer eu augue augue nunc elit dolor, luctus placerat scelerisque euismod, iaculis eu lacus nunc mi elit, vehicula ut laoreet ac, aliquam sit amet justo nunc tempor, metus vel
+Download now
+
+A great free landing page template
+Tincidunt integer eu augue augue nunc elit dolor, luctus placerat scelerisque euismod, iaculis eu lacus nunc mi elit, vehicula ut laoreet ac, aliquam sit amet justo nunc tempor, metus vel.
+
+
+
+Feature 1
+Feature 2
+Feature 3
+
+                       
+Try it FREE
+Buy it now
+
+
+About App
+Tincidunt integer eu augue augue nunc elit dolor, luctus placerat scelerisque euismod, iaculis eu lacus nunc mi elit, vehicula ut laoreet ac, aliquam sit amet justo nunc tempor, metus vel.
+
+
+Get Informed
+Tincidunt integer eu augue augue nunc elit dolor, luctus placerat scelerisque euismod, iaculis eu lacus nunc mi elit, vehicula ut laoreet ac, aliquam sit amet justo nunc tempor, metus vel.
+
+Subscribe
+
+Copyright 2018, Your Company name                
